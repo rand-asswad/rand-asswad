@@ -1,5 +1,8 @@
 ## Hi, I'm [Rand](https://rand-asswad.xyz)
 
+<script src="/assets/js/epicycles.js"></script>
+
+<div id="sketch-holder" class="p-2"></div>
 
 <!--
 ### Hi there 👋
