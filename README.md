@@ -1,7 +1,31 @@
 ## Hi, I'm [Rand](https://rand-asswad.xyz)
 
+
+
+<div align="right" style="width: 350px">
+
 ![Epicycles-Dark](epicycles_dark.gif#gh-dark-mode-only)
 ![Epicycles-Light](epicycles_light.gif#gh-light-mode-only)
+
+</div>
+
+I am an engineer in applied mathematics and computer science,
+actively seeking a PhD project in applied mathematics (based in France).
+
+<details><summary>(Scientific) Areas of interest</summary>
+
+- Mathematical modeling and numerical analysis
+- Control theory and dynamic systems
+- Mathematical and numerical optimization
+
+</details>
+
+
+<!--
+<img src="epicycles_dark.gif#gh-dark-mode-only" alt="Epicycles-Dark" align="right" width="350" height="auto"/>
+<img src="epicycles_light.gif#gh-dark-mode-only" alt="Epicycles-Light" align="right" width="350" height="auto"/>
+-->
+
 
 <!--
 ### Hi there 👋
