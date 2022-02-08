@@ -42,10 +42,10 @@ actively seeking a PhD project in applied mathematics (based in France).
 <summary>Computer science and programming</summary>
 
 - [My personal website](https://rand-asswad.xyz) [[repo](https://github.com/rand-asswad/rand-asswad.github.io)]
-- [dotfiles](https://github.com/rand-asswad/dotfiles)
+- [Dotfiles for Arch Linux with i3wm](https://github.com/rand-asswad/dotfiles)
 - [AsciiMath to Tex (AM2T)](https://github.com/rand-asswad/am2t)
   [[report (fr)](https://rand-asswad.github.io/am2t/)]
-- [University Database](https://github.com/rand-asswad/gm4_bdd_univ)
+- [University database](https://github.com/rand-asswad/gm4_bdd_univ)
   [[report (fr)](https://rand-asswad.github.io/gm4_bdd_univ/)]
 - [Pacman Unity3D clone](https://github.com/rand-asswad/pacmanUnity3D)
 </details>
