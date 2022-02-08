@@ -1,8 +1,7 @@
 ## Hi, I'm [Rand](https://rand-asswad.xyz)
 
-![](epicycles_dark.gif#gh-dark-mode-only | height=200)
-
-![](epicycles_light.gif#gh-light-mode-only | height=200)
+![Epicycles-Dark](epicycles_dark.gif#gh-dark-mode-only)
+![Epicycles-Light](epicycles_light.gif#gh-light-mode-only)
 
 <!--
 ### Hi there 👋
