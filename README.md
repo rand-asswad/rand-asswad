@@ -6,14 +6,14 @@
 I am an engineer in applied mathematics and computer science,
 actively seeking a PhD project in applied mathematics (based in France).
 
-### (Scientific) fields of interest
+### My fields of interest
 
 - Mathematical modeling and numerical analysis
 - Control theory and dynamic systems
 - Mathematical and numerical optimization
 - AI and decision-making
 
-### Projects
+### My projects on github
 
 <details>
 <summary>Math-related</summary>
