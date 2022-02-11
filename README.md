@@ -20,7 +20,7 @@ actively seeking a PhD project in applied mathematics (based in France).
 
 - [Wilson Cowan A1 model (WCA1)](https://github.com/rand-asswad/WCA1) [[report](https://rand-asswad.xyz/WCA1-docs/)]
 - [Muallef (MIR)](https://github.com/rand-asswad/muallef) [[report](https://rand-asswad.xyz/muallef/)]
-- [Active contour models](https://github.com/rand-asswad/acitve-contour-models)
+- [Active contour models](https://github.com/rand-asswad/active-contour-models)
   [[report](https://rand-asswad.xyz/active-contour-models)]
 - [Optimal control](https://github.com/rand-asswad/controle_optimal)
   [[report (fr)](https://rand-asswad.xyz/controle_optimal/)]
