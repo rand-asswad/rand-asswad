@@ -10,6 +10,7 @@ actively seeking a PhD project in applied mathematics (based in France).
 
 - Mathematical modeling and numerical analysis
 - Control theory and dynamic systems
+- Signal and image processing
 - Mathematical and numerical optimization
 - AI and decision-making
 
